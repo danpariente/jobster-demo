@@ -1,0 +1,25 @@
+- @user ||= current_user
+%hr.space
+.span-3
+  .icons.icons_messages
+  - num_unread_msgs =  @user.received_messages.where(:opened => false).size
+  %a{:href => '/messages/inbox'} Messages 
+  - if num_unread_msgs > 0
+    (#{num_unread_msgs})
+    
+.span-3
+  .icons.icons_event
+  = link_to "Events", events_path
+.span-3
+  .icons.icons_photo
+  %a{:href => '/albums'} Photos
+.span-3
+  .icons.icons_pages
+  = link_to "Pages", pages_path
+.span-3
+  .icons.icons_group
+  = link_to "Groups", groups_path        
+.span-3
+  .icons.icons_friends
+  %a{:href => '/contacts'} Contacts
+%hr.space

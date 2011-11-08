@@ -1,0 +1,11 @@
+=render '/home/top'
+
+.span-24
+  .span-3
+    %img.span-3{:src => gravatar_for(@user)}
+    =render '/home/links'
+  .span-21.last
+    %h3 Edit the page    
+    Edit or customize your page here. 
+    %hr.space
+    = render 'form'

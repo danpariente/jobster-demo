@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  company_name: MyString
+  country: MyString
+  industry: MyString
+  hired_from: 2011-11-04
+  hired_to: 2011-11-04
+  job_title: MyString
+  responsability: MyText
+  reason_leaving: MyText
+  salary: MyString
+  add_notes: MyText
+
+two:
+  company_name: MyString
+  country: MyString
+  industry: MyString
+  hired_from: 2011-11-04
+  hired_to: 2011-11-04
+  job_title: MyString
+  responsability: MyText
+  reason_leaving: MyText
+  salary: MyString
+  add_notes: MyText

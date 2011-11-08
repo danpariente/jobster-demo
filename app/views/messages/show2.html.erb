@@ -1,0 +1,26 @@
+<% title "Message" %>
+
+<p>
+  
+  <strong>Topic:</strong>
+  <%= @message.topic %>
+  <strong>Body:</strong>
+  <%= @message.body %>
+</p>
+
+<p>
+  
+  <h2 >Conversation</h2>
+ 
+</p>
+
+ <%= render :partial => "reply", :collection => @message.replies %>
+ <%= render :partial => "reply_form" %>
+
+
+<p>
+  <%= link_to "Edit", edit_message_path(@message) %> |
+  <%= link_to "Destroy", @message, :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", messages_path %>
+</p>
+

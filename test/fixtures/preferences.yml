@@ -1,0 +1,21 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  job_titles: 
+  job_type: MyString
+  job_categories: MyString
+  expected_salary: MyString
+  able_to_travel: false
+  able_to_relocate: false
+  preferred_location: MyString
+  shift: false
+
+two:
+  job_titles: 
+  job_type: MyString
+  job_categories: MyString
+  expected_salary: MyString
+  able_to_travel: false
+  able_to_relocate: false
+  preferred_location: MyString
+  shift: false

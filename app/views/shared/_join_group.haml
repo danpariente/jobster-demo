@@ -1,0 +1,11 @@
+- if @group.members.include? @user
+  You are a member of this group.
+  - unless @group.user == @user
+    - @user.memberships.each do |m|
+      - @member = m if m.group_id == @group.id
+    = link_to "leave this group", @member , :method => :delete 
+  
+- else
+  You are not a member of this group yet.
+  = button_to "Join this Group", memberships_path(:member_id => @user, :group_id => @group), :method => :post
+    

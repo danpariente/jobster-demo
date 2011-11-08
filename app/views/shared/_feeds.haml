@@ -1,0 +1,16 @@
+.statuses
+  -@all.each do |item|
+    .span-1
+      %img.span-1{:src => "#{item.user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(item.user.email)}" : item.user.photo_url }"}
+    .span-13.last
+      %a{:href => "/user/#{item.user.username}"}
+        =item.user.username
+      &nbsp;
+      = raw item.text
+
+    .span-8.last
+      %em.quiet
+        =time_ago_in_words(item.created_at.to_time)
+ 
+    =render 'shared/comment_and_like', :commentable => item
+    %hr

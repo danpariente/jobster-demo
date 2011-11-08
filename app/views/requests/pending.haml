@@ -1,0 +1,20 @@
+= render '/home/top'
+.span-3
+  %img.span-3{:src => "#{@user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@user.email)}" : @user.photo_url }"}
+  = render '/home/links'
+.span-20.last
+  %h3 Pending requests
+  - if @user.requests.empty?
+    You have no pending requests.
+  - @user.requests.uniq.each do |req|
+    .span-13
+      .span-2
+        %img.span-2{:src => "#{req.from.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(req.from.email)}" : req.from.photo_url }"}
+      .span-10 
+        #{req.text}
+        %br
+        = link_to "Accept", friendships_path(:friend_id => req.from.id), :method => :post 
+        = link_to "Ignore", req, :confirm => 'Are you sure you want to ignore this request?',:method => :delete 
+  
+    %hr.space
+   

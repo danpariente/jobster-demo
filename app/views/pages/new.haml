@@ -1,0 +1,13 @@
+=render '/home/top'
+
+.span-24
+  .span-3
+    %img.span-3{:src => gravatar_for(@user)}
+    =render '/home/links'
+  .span-21.last
+    %h3 Create a new page    
+    Create a new page here. Use 
+    %a{:href => 'http://daringfireball.net/projects/markdown/basics'} markdown
+    for the body text and copy this link to be used elsewhere!
+    %hr.space
+    = render 'form'

@@ -1,0 +1,8 @@
+= render :partial => '/home/top'
+.span-24.last
+  .span-3
+    %img.span-3{:src => gravatar_for(@user)}
+    = render :partial => '/home/links'
+  .span-21.last
+    %h3 Change your profile here
+    = render 'form'

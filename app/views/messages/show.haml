@@ -1,0 +1,31 @@
+=render '/home/top'
+.span-24
+  .span-3
+    %img.span-3{:src => "#{@user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@user.email)}" : @user.photo_url }"}
+    =render '/home/links'    
+  
+  .span-20  
+    %h3 #{@message.topic}
+    #{@message.body}
+    %br
+    %a.button{:href =>'/messages/inbox'} back to inbox
+    %hr.space
+    
+    - @message.replies.each do |msg|
+      .span-2
+        %img.span-2{:src => "#{msg.author.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(msg.author.email)}" : msg.author.photo_url }"}
+      .span-17
+        #{msg.body}
+        %hr.space
+        #{ link_to msg.author.username, user_url(msg.author.id) }
+        .quiet 
+          = time_ago_in_words msg.created_at
+      %hr.space
+
+    %h3 Reply
+    .span-10
+      =render 'reply_form'
+      %br
+      
+    
+    

@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  country: MyString
+  education_level: MyString
+  field_of_study: MyString
+  institution: MyString
+  attended_from: 2011-11-04
+  attended_to: 2011-11-04
+  add_notes: MyText
+
+two:
+  country: MyString
+  education_level: MyString
+  field_of_study: MyString
+  institution: MyString
+  attended_from: 2011-11-04
+  attended_to: 2011-11-04
+  add_notes: MyText

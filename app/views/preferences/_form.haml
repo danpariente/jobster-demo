@@ -1,0 +1,58 @@
+= form_for ([@profile, @profile.build_preference]) do |f|
+  %h3 Positions
+  .span-5
+    Job titles
+  %br
+  .span-18
+    = f.text_area :job_titles, :cols => 55, :rows => 2
+  %br
+  .span-5
+    Job types
+  %br
+  .span-18
+    = f.select :job_type, ["Contract", "Permanent"], :prompt => "Job Type:"
+  %br
+  
+  .span-5
+    Job categories
+  %br
+  .span-18.last
+    = f.select :job_categories, ["Information Technology", "Accounting/Finance", "Admin/Human Resource", "Engineering", "Fresh Graduates"], :prompt => "Select Job Category:"
+  %hr.space
+  %h3 Remuneration package
+  .span-5
+    Expected salary
+  %br
+  .span-18.last
+    $
+    = f.text_field :expected_salary, :size => 20
+  %hr.space
+  %h3 Location
+  .span-5
+    Able to travel
+  %br
+  .span-18.last
+    = f.check_box :able_to_travel
+  %br
+  .span-5
+    Able to relocate
+  %br
+  .span-18.last
+    = f.check_box :able_to_relocate
+  %br  
+  .span-5
+    Preferred working location
+  %br
+  .span-18.last
+    = f.text_area :preferred_location, :cols => 55, :rows => 2
+  %br
+  %h3 Shift
+  .span-5
+    I am fine with shift
+  %br
+  .span-18.last
+    = f.check_box :shift
+  %br
+  .span-2.prepend-8
+    = f.submit 'update preferences'
+   

@@ -1,0 +1,12 @@
+- if user.friendships.empty?
+  You don't have any contacts in Jobster! Start adding contacts today!
+- else 
+  - user.friends[0..11].each do |f|
+    %a{:href => "/user/#{f.username}"}
+      %img.span-1{:src => "#{f.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(f.email)}" : f.photo_url }"}
+
+%hr.space    
+- if user == current_user
+  = link_to "view all", contacts_path
+- else
+  = link_to "view all", "/contacts/#{user.id}"

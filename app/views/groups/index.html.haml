@@ -1,0 +1,39 @@
+= render '/home/top'
+.span-24
+  .span-3
+    %img.span-3{:src => "#{@user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@user.email)}" : @user.photo_url }"}
+    =render '/home/links'    
+  .span-15
+    %hr.space
+    .span-3
+      %div.icons.icons_group
+      %strong{:style => 'vertical-align:bottom;font-size:18px;'} Groups
+    .span-8 &nbsp;
+    .span-4.last.right
+      = link_to  "new group", new_group_path
+    
+    .span-15      
+      %hr.space
+      - @user.groups.each do |group|
+        .span-11
+          %strong #{group.name}
+          .quiet #{group.description}
+        .span-4.last{:style => 'text-align:right;'}
+          - if group.user == @user
+            = link_to 'delete', group_path(group), :method => :delete, :confirm => 'Are you sure you wish to delete this page?'
+            = link_to 'view', group_path(group)
+          - else 
+            = link_to 'view', group_path(group)  
+        %hr.space
+        %hr
+      
+  .span-6.last
+    %h3  Suggestions
+    - if @user.friend_groups.empty?
+      No suggested groups
+    - else
+      Your friends have joined the following groups:
+      %ul
+        - @user.friend_groups[0..9].each do |group|
+          %li
+            %a{:href => "/groups/#{group.id}"} #{group.name}

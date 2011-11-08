@@ -1,0 +1,26 @@
+=render '/home/top'
+
+.span-24
+  .span-3
+    %img.span-3{:src => "#{@user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@user.email)}" : @user.photo_url }"}
+    =render '/home/links'
+  .span-21.last
+    %h3 Create a new page    
+    Create a new page here. Use 
+    %a{:href => 'http://daringfireball.net/projects/markdown/basics'} markdown
+    for the body text and copy this link to be used elsewhere!
+    %hr.space
+    = form_for @page do |f|
+      = f.hidden_field :user_id, :value => current_user.id
+      = f.hidden_field :event_id, :value => @event.id if @event
+      = f.hidden_field :group_id, :value => @group.id if @group
+    
+      %strong Title
+      %p
+        = f.text_field :title, :size => 60
+      %strong Body
+      %p
+        = f.text_area :body, :class => "mceEditor", :rows => 20, :cols => 60
+      %p
+        = f.submit "create"  
+        

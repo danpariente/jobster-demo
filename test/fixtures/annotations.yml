@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  description: MyText
+  x: 1
+  y: 1
+  height: 1
+  width: 1
+
+two:
+  description: MyText
+  x: 1
+  y: 1
+  height: 1
+  width: 1

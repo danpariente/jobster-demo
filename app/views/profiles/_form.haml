@@ -1,0 +1,84 @@
+= form_for @profile, :method => :put do |f|
+  %h3 Person name
+  .span-5
+    First/given name
+  %br
+  .span-18
+    = f.text_field :first_name, :size => 50
+  %br
+  .span-5
+    Last/family name
+  %br
+  .span-18
+    = f.text_field :last_name, :size => 50
+  %hr.space
+  %h3 General
+  .span-5
+    Date of birth
+  %br
+  .span-18.last
+    = f.date_select :date_birth
+  %br
+  .span-5
+    Sex
+  %br
+  .span-18.last
+    = f.select :gender, ["Male", "Female"], :prompt => "Select Sex:"
+  %br
+  .span-5
+    Relationship Status
+  %br
+  .span-18.last
+    = f.select :marital_status, ["Single", "In a Relationship", "Married", "Engaged", "It's Complicated"], :prompt => "Select Relationship Status:"
+  %br
+  .span-5
+    Current Drawn
+  %br
+  .span-18.last
+    $
+    = f.text_field :current_drawn, :size => 20
+  %hr.space
+  %h3 Availability
+  .span-5
+    Availability
+  %br
+  .span-18.last
+    = f.select :availability, ["Immediate", "1 week", "2 weeks", "1 month", "2 months"], :prompt => "Select Availability:"
+  %hr.space
+  %h3 Contact
+  .span-5
+    Mobile number
+  %br
+  .span-18.last
+    = f.text_field :mobile_number, :size => 20
+  %br
+  .span-5
+    Home Number
+  %br
+  .span-18.last
+    = f.text_field :home_number, :size => 20
+  %br
+  .span-5
+    Work number
+  %br
+  .span-18.last
+    = f.text_field :work_number, :size => 20
+  %hr.space
+  %h3 Credential
+  .span-5
+    Highest Education level
+  %br
+  .span-18.last
+    = f.select :education_level, ["Doctorate(PhD)", "Master's Degree", "College", "HighSchool", "Others"], :prompt => "Select Education Level:"
+  %br
+  .span-5
+    Skills
+  %br
+  .span-18.last
+    = f.text_area :skills, :cols => 55, :rows => 2
+  
+  %br
+  
+  .span-2.prepend-6
+    = f.submit 'save'
+   

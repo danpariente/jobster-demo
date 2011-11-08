@@ -1,0 +1,13 @@
+= form_for [@pageable, Page.new] do |f|
+  = f.hidden_field :user_id, :value => @user.id
+  = f.hidden_field :event_id, :value => @event.id if @event
+  = f.hidden_field :group_id, :value => @group.id if @group
+  %strong Title
+  %p
+    = f.text_field :title, :size => 60
+  %strong Body
+  %p
+    = f.text_area :body, :class => "mceEditor", :rows => 20, :cols => 100
+  %br
+    = f.submit "create"  
+        

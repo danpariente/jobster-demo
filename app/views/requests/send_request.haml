@@ -1,0 +1,18 @@
+= render '/home/top'
+.span-3
+  %img.span-3{:src => "#{@user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@user.email)}" : @user.photo_url }"}
+  =render '/home/links'
+.span-20.last
+  %h3 Add #{@contact.username} as a contact?
+  %h4 #{@contact.username} will have to confirm that you are contacts.
+  
+  - form_for @request do |f|
+    .span-20 Add a personalized message (optional)
+    .span-20
+      .span-10
+        = f.text_area :text, :rows => 5, :cols => 70
+        = f.hidden_field :user_id, :value => @contact.id
+        = f.hidden_field :from_id, :value => @user.id
+        %br  
+        = f.submit 'send request'
+      

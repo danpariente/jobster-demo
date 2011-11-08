@@ -1,0 +1,8 @@
+= render :partial => '/home/top'
+.span-24.last
+  .span-3
+    %img.span-3{:src => "#{@user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@user.email)}" : @user.photo_url }"}
+    = render :partial => '/home/links'
+  .span-21.last
+    %h3 Change your profile here
+    = render 'profile_form'

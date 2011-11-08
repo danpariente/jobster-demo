@@ -1,0 +1,2 @@
+class AddRecipientPermanentDeleteAndSenderPermanentDeleteToMessages < ActiveRecord::Migration
+end

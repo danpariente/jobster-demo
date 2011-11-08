@@ -1,0 +1,10 @@
+- @user ||= current_user
+= render '/home/top'
+-if flash[:error]
+  .span-14.prepend-2.last
+    .error 
+      =flash[:error]
+.span-24.last
+  %h4 Please provide some information for your new account. 
+  .span-21.last  
+    = render 'profile_form'

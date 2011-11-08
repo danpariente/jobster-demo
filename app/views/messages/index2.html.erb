@@ -1,0 +1,31 @@
+<% title "Messages" %>
+
+<table>
+  <tr>
+    <th>Sender</th>
+    <th>Recipient</th>
+    <th>Topic</th>
+    <th>Body</th>
+  </tr>
+  <% for message in @messages %>
+    <tr>
+      <td><%= message.from.username %></td>
+      <td><%= message.to.username %></td>
+      <td>
+       <% if message.open? %>
+         <%= message.topic %>
+       <% else %>
+         <strong><%= message.topic %></strong>
+       <% end %>    
+      </td> 
+      <td><%= message.body %></td>
+      
+      <td><%= link_to "Show", message_path(message) %></td>
+      <td><%= link_to "Edit", edit_message_path(message) %></td>
+      <td><%= link_to "Destroy", message_path(message), :confirm => 'Are you sure?', :method => :delete %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Message", new_message_path %></p>
+

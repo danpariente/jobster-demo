@@ -1,0 +1,64 @@
+=render '/home/top'
+.span-24
+  .span-3
+    %img.span-3{:src => "#{@user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@user.email)}" : @user.photo_url }"}
+    =render '/home/links'    
+  .span-15
+    
+    %h3 #{@group.name}
+    =@group.description
+      
+    %h3 Members
+    - @group.members.each do |user|
+      .span-1
+        %a{:href => "/user/#{user.username}"}
+          %img.span-1{:src => "#{user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(user.email)}" : user.photo_url }", :alt => "#{user.formatted_name}"} 
+    
+
+    %hr.space
+
+    %h3 Pages
+    .span-3.push-12.right
+      - if @group.user == @user
+        = link_to "new page", "/groups/#{@group.id}/pages/new"
+    - @group.pages.each do |page|
+      .span-11
+        %strong 
+          = link_to page.title, page_path(page)
+        .quiet Date created : #{page.created_at.strftime "%I:%M %p, %d %b %Y"}
+      .span-4.last.right
+        - if @group.user == @user
+          = link_to "del", page, :confirm => "Are you sure?", :method => :delete
+          %br
+          %a.button{:href => "/groups/#{@group.id}/pages/#{page.id}/edit"} edit
+      %hr.space
+      %hr          
+    %hr.space
+    
+    %h3 Wall
+    =render '/shared/group_wall_box'
+      
+    %hr.space
+    
+    -@group.wall.posts.each do |post|
+      .span-2
+        %img.span-2{:src => "#{post.user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(post.user.email)}" : post.user.photo_url }"}
+      .span-4
+        #{post.user.formatted_name}
+        %br
+        #{post.created_at.strftime "%d %b %Y"}
+        %br
+        #{post.created_at.strftime "%I:%M %P"}
+      .span-8
+        #{post.text}
+      %hr
+    %hr.space  
+
+  .span-6.last
+    %h3 Group admin
+    .span-3
+      %img.span-3{:src => "#{@group.user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@group.user.email)}" : @group.user.photo_url }"}  
+      %a{:href => "/user/#{@group.user.username}"} #{@group.user.formatted_name}
+    %hr.space
+    %h3 Your membership
+    =render '/shared/join_group'

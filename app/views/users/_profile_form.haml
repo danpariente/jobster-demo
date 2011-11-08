@@ -1,0 +1,52 @@
+= form_for User.new, :method => :put do |f|
+  .span-5
+    A username for your account
+  %br
+  .span-18.last
+    = f.text_field :username
+  %br
+  .span-5
+    Your name 
+  %br
+  .span-18.last
+    = f.text_field :formatted_name, :size => 50
+  %br
+  .span-5
+    Where are you?
+  %br
+  .span-18.last
+    = f.text_field :location, :size => 50
+  %br
+  .span-5
+    Sex
+  %br
+  .span-18.last
+    = f.select :sex, ["Male", "Female"], :prompt => "Select Sex:"
+  %br
+  .span-5
+    Relationship Status
+  %br
+  .span-18.last
+    = f.select :relationship_status, ["Single", "In a Relationship", "Married", "Engaged", "It's Complicated"], :prompt => "Select Relationship Status:"
+  %br
+  .span-5
+    Brief description of yourself
+  %br
+  .span-18.last
+    = f.text_field :description, :size => 50
+  %br
+  .span-5
+    Interests
+  %br
+  .span-18.last
+    = f.text_area :interests, :cols => 55, :rows => 2
+  %br
+  .span-5
+    Education
+  %br
+  .span-18.last
+    = f.text_area :education, :cols => 55, :rows => 2
+  %br
+  .span-2.prepend-8
+    = f.submit 'save profile'
+   

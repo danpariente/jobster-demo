@@ -1,0 +1,29 @@
+= render '/home/top'
+
+.span-24.last
+  .span-3
+    %img.span-3{:src => "#{@viewed_user.photo_url}"}
+    = render '/home/links'  
+    %h3 Friends
+    = render 'contacts', :user => @viewed_user
+  .span-15
+    
+    %h3 Wall
+    = render 'wall_box'
+    %hr.space
+    = render 'shared/feeds'
+
+  .span-6.last
+    %h3 Information
+    .span-5 Name : #{@viewed_user.formatted_name}
+    .span-5 Location : #{@viewed_user.location}    
+    .span-5 #{@viewed_user.description}
+    %hr.space
+    
+    %h3 Photos  
+    = render 'album'
+    
+    %h3 Pages
+    = render 'pages', {:locals => {:owner => @viewed_user, :owner_name => 'user'}}
+    
+    %hr.space

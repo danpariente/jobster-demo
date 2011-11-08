@@ -1,0 +1,83 @@
+=render '/home/top'
+.span-24
+  .span-3
+    %img.span-3{:src => "#{@user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(@user.email)}" : @user.photo_url }"}
+    =render '/home/links'    
+  .span-15
+    
+    %h3 #{@event.name}
+    .span-14
+      .span-3 Date
+      .span-10 #{@event.date.strftime "%d %b %Y"}
+    .span-14
+      .span-3 Time
+      .span-10 #{@event.time.strftime "%I:%M %p"}
+    .span-14
+      .span-3 Venue
+      .span-10 #{@event.venue}
+    
+    %hr.space
+          
+    %h3 Description
+    = @event.description
+      
+    %h3 Confirmed attendees
+    - @event.confirmed_users.each do |user|
+      .span-2
+        %a{:href => "/user/#{user.username}"}
+          %img.span-1{:src => "#{user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(user.email)}" : user.photo_url }", :alt => "#{user.formatted_name}"} 
+    
+    %hr.space
+    
+
+    
+    %hr.space
+
+    %h3 Pages
+    .span-3.push-12.right
+      - if @event.user == @user
+        = link_to "new page", "/events/#{@event.id}/pages/new"
+    - @event.pages.each do |page|
+      .span-12
+        = link_to page.title, page_path(page)
+        .quiet Date created : #{page.created_at.strftime "%I:%M %p, %d %b %Y"}
+      .span-3.right.last
+        - if @event.user == @user
+          = link_to "del", page, :confirm => "Are you sure?", :method => :delete
+          %br
+          %a.button{:href => "/events/#{@event.id}/pages/#{page.id}/edit"} edit
+      %hr.space
+      %hr          
+    %hr.space
+    
+    %h3 Owner
+    = @event.user.username
+    
+    %h3 Wall
+    =#render '/shared/event_wall_box'
+    =render 'wall'  
+    %hr.space
+    
+    -@event.wall.posts.each do |post|
+      .span-2
+        %img.span-2{:src => "#{post.user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(post.user.email)}" : post.user.photo_url }"}
+      .span-4
+        #{post.user.formatted_name}
+        %br
+        #{post.created_at.strftime "%d %b %Y"}
+        %br
+        #{post.created_at.strftime "%I:%M %P"}
+      .span-8
+        #{post.text}
+      %hr
+    %hr.space  
+        
+  .span-6.last
+    %h3 Your RSVP
+    =render 'rsvp'
+    
+    %h3 Awaiting reply
+    - @event.pending_users.each do |user|
+      .span-2
+        %a{:href => "/user/#{user.username}"}
+          %img.span-1{:src => "#{user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(user.email)}" : user.photo_url }", :alt => "#{user.formatted_name}"}  

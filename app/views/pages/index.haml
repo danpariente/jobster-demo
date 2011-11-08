@@ -1,0 +1,28 @@
+=render '/home/top'
+.span-24
+  .span-3
+    %img.span-3{:src => gravatar_for(@user)}
+    =render '/home/links'    
+  .span-21.last
+    %hr.space
+    .span-11
+      %div.icons.icons_pages    
+      %strong{:style => 'vertical-align:bottom;font-size:18px;'} Pages
+    .span-10.last.right
+      = link_to  "new page", (@pageable.nil? ? new_page_path : "/events/#{@pageable.id}/pages/new")
+    
+    .span-21.last      
+      %hr.space
+      - if @user.pages.empty?
+        You don't have any pages yet, create one.
+          
+      - for page in @pages 
+        .span-11
+          %a{:href => "/pages/#{page.id}" } #{page.title}
+          .quiet Date created : #{page.created_at.strftime "%I:%M %p, %d %b %Y"}
+        .span-10.last.right
+          = link_to 'delete', page_url(page), :method => :delete, :confirm => 'Are you sure you wish to delete this page?'
+          = link_to "edit", edit_page_url(page) 
+        %hr.space
+        %hr
+     

@@ -1,0 +1,49 @@
+= render '/home/top'
+
+.span-24.last
+  .span-3
+    %img.span-3{:src => gravatar_for(@user)}
+    = render '/home/links'
+  .span-15
+    - if @show_search
+      %h3 Find your friends
+      - form_tag contacts_path, :method => 'get' do
+        Look for friends here - 
+        = text_field_tag :search, params[:search] 
+        = submit_tag "Search Contacts", :name => nil 
+
+      - if @search_results
+        %hr.space
+        - @search_results.each do |res|
+          .span-1
+            %img.span-1{:src => gravatar_for(res)}          
+          .span-12  
+            - unless res == current_user
+              %a{:href => "/user/#{res.username}"} #{res.formatted_name} (#{res.username}) 
+              from #{res.location}
+              %br
+              - if current_user.friends.include? res
+                #{res.pronoun.capitalize} is your friend.
+              - else
+                %a{:href => "/request/#{res.id}"} add as friend
+            - else
+              This is me!  
+          %hr.space
+
+    %h3 Friends
+    - @user.friends.each do |friend|
+      .span-2
+        %img.span-2{:src => gravatar_for(friend)}
+      .span-12
+        %a{:href => "/user/#{friend.username}"} #{friend.username} 
+        %br
+        #{friend.location}
+      .span-1.last
+        %form{:id => "form_friend_#{friend.id}", :method => 'post', :action => "/friend/#{friend.id}"} 
+          %input{:type => 'hidden', :name => '_method', :value => 'delete'}
+          %a{:href => '#', :onclick => '$("#form_friend_' + "#{friend.id}" + '").submit();', :class => 'remove_link'} 
+      %hr.space
+        
+  .span-6.last
+  
+    %h3 Suggestions

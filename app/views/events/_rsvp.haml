@@ -1,0 +1,13 @@
+- form_tag @event, :method => :put do
+  %ul
+    %p
+      = radio_button_tag 'attendance', 'yes', @event.confirmed_users.include?(@user)
+      Attending
+      %br
+      = radio_button_tag 'attendance', 'maybe', @event.pending_users.include?(@user)
+      Maybe Attending
+      %br
+      = radio_button_tag 'attendance', 'no', @event.declined_users.include?(@user)
+      Not Attending
+      %br
+  = submit_tag "send" 

@@ -1,0 +1,31 @@
+=#render '/shared/text_limiter_js'
+What's on your mind?
+= form_for @post do |f|
+  .span-15
+    = f.text_area :text, :rows => 2, :cols => 113, :id => 'update', :maxlength => 200, :autocomplete => :off
+  .span-6
+    %span#counter 160 characters left
+  :javascript
+
+    // just a function to pluralize the word "characters" based on the number
+    function pluralize_characters(num) {
+      if(num == 1) {
+        return num + " character";
+      } else {
+        return num + " characters";
+      }
+    }
+
+    $("#update").keyup(function() {
+      var chars = $("#update").val().length;
+      var left = 160 - chars; // sub 160 for your max length
+      if(left >= 0) {
+        $("#counter").text(pluralize_characters(left) + " left");
+      } else {
+        left = left * (-1)
+        $("#counter").text(pluralize_characters(left) + " too long");
+      }
+    });     
+  .prepend-12
+    = f.hidden_field :wall_id, :value => @event.wall.id 
+    = f.submit 'update' 

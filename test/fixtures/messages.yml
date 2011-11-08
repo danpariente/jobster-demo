@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  subject: MyString
+  text: MyText
+  read: false
+  thread: 1
+
+two:
+  subject: MyString
+  text: MyText
+  read: false
+  thread: 1

@@ -1,0 +1,5 @@
+
+<%= form_for [@message, @message.replies.build], :html=> { :class => "bp" } do |form| %>
+        <%= form.text_area :body, :rows => 5, :cols => 50 %><br \>
+        <%= form.submit :value => "Reply" %>
+<% end %>      

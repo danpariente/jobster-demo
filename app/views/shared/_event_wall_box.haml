@@ -1,0 +1,13 @@
+=render 'shared/text_limiter_js'
+What's on your mind?
+%form{ {:controller => 'event', :action => 'post_wall'}, :method => 'post'}
+  %textarea.update.span-15#update{:name => 'status', :rows => 2, :onKeyDown => "text_limiter($('#update'), $('#counter'))"}
+  .span-6
+    %span#counter
+      160
+    characters left
+  .prepend-12
+    %input{:type => 'hidden', :name => 'wall_id', :value => "#{@event.wall.id}"}
+    %input{:type => 'hidden', :name => 'event_id', :value => "#{@event.id}"}
+    %input{:type => 'hidden', :name => 'user_id', :value => "#{current_user.id}"}
+    %input#button{:type => 'submit', :value => 'update'}

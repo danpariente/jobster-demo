@@ -1,0 +1,22 @@
+
+
+%h2 Profile
+
+= @profile.first_name 
+%br
+= @profile.last_name 
+%br
+= @profile.date_birth 
+%br
+= @profile.marital_status 
+%br
+= @profile.current_drawn 
+%br
+= @profile.availability 
+%br
+= @profile.mobile_number 
+%br
+
+
+%hr.space
+  = link_to "+ add preferences", "/profiles/#{params[:id]}/preference/new"

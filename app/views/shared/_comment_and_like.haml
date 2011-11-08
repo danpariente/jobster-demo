@@ -1,0 +1,36 @@
+.span-15.last
+  .span-2
+    = link_to "comments(#{commentable.comments.size})", '#', :onclick => "$('#comment_box_#{commentable.class.to_s}_#{commentable.id}').toggle();$('#comment_box_#{commentable.class.to_s}_#{commentable.id}').focus();"  
+   
+  .span-13.last
+    = link_to "like", likes_path(:user_id => current_user.id, :likeable_type => commentable.class, :likeable_id => commentable.id, :author => current_user.username), :method => :post 	
+    - unless commentable.likes.empty?
+      = pluralize(commentable.likes.size, 'person')
+      likes this.
+      - commentable.likes.each do |like|
+        - if commentable.likes.last != like
+          = link_to like.author, "/user/#{like.author}"
+        - else
+          = 'and ' unless commentable.likes.size == 1
+          = link_to like.author, "/user/#{like.author}"     
+        
+.span-13.hide.last{:id => "comment_box_#{commentable.class.to_s}_#{commentable.id}"}
+  = form_for [commentable, Comment.new] do |f|
+    = f.hidden_field :user_id, :value => current_user.id
+    = f.text_area :text, :cols => 50, :rows => 2
+    %br
+    = f.submit 'comment'
+
+%hr.space{:style => 'height: 1px'}    
+
+- unless commentable.comments.empty? 
+  .span-14.push-1.last
+    - commentable.comments.each do |comment|
+      .span-1
+        %a{:href => "/user/#{comment.user.username}"}
+          %img.span-1{:src => "#{comment.user.photo_url.nil? ? "http://www.gravatar.com/avatar/#{Digest::MD5.hexdigest(comment.user.email)}" : comment.user.photo_url }"}
+      .span-12.last.comment_box
+        #{comment.text}
+        %br
+        %em.quiet 
+          =time_ago_in_words(comment.created_at.to_time)

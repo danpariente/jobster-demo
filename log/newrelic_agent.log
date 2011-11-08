@@ -1,0 +1,1052 @@
+# Logfile created on Wed Sep 07 16:23:21 -0400 2011 by logger.rb/22285
+[09/07/11 16:23:21 SA Western Standard Time D403-15 (4276)] INFO : Dispatcher: webrick
+[09/07/11 16:23:21 SA Western Standard Time D403-15 (4276)] INFO : Application: My Application
+[09/07/11 16:23:21 SA Western Standard Time D403-15 (4276)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/07/11 16:23:21 SA Western Standard Time D403-15 (4276)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4276
+[09/07/11 16:23:21 SA Western Standard Time D403-15 (4276)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/07/11 16:24:53 SA Western Standard Time D403-15 (4128)] INFO : Dispatcher: webrick
+[09/07/11 16:24:53 SA Western Standard Time D403-15 (4128)] INFO : Application: My Application
+[09/07/11 16:24:53 SA Western Standard Time D403-15 (4128)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/07/11 16:24:53 SA Western Standard Time D403-15 (4128)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4128
+[09/07/11 16:24:53 SA Western Standard Time D403-15 (4128)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/07/11 16:35:55 SA Western Standard Time D403-15 (1312)] INFO : Dispatcher: webrick
+[09/07/11 16:35:55 SA Western Standard Time D403-15 (1312)] INFO : Application: My Application
+[09/07/11 16:35:55 SA Western Standard Time D403-15 (1312)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/07/11 16:35:55 SA Western Standard Time D403-15 (1312)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 1312
+[09/07/11 16:35:55 SA Western Standard Time D403-15 (1312)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/07/11 16:37:49 SA Western Standard Time D403-15 (3696)] INFO : Dispatcher: webrick
+[09/07/11 16:37:49 SA Western Standard Time D403-15 (3696)] INFO : Application: My Application
+[09/07/11 16:37:49 SA Western Standard Time D403-15 (3696)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/07/11 16:37:49 SA Western Standard Time D403-15 (3696)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 3696
+[09/07/11 16:37:49 SA Western Standard Time D403-15 (3696)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/07/11 17:13:02 SA Western Standard Time D403-15 (3724)] INFO : Dispatcher: webrick
+[09/07/11 17:13:02 SA Western Standard Time D403-15 (3724)] INFO : Application: My Application
+[09/07/11 17:13:02 SA Western Standard Time D403-15 (3724)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/07/11 17:13:02 SA Western Standard Time D403-15 (3724)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 3724
+[09/07/11 17:13:02 SA Western Standard Time D403-15 (3724)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/07/11 17:51:45 SA Western Standard Time D403-15 (6080)] INFO : Dispatcher: webrick
+[09/07/11 17:51:45 SA Western Standard Time D403-15 (6080)] INFO : Application: My Application
+[09/07/11 17:51:45 SA Western Standard Time D403-15 (6080)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/07/11 17:51:45 SA Western Standard Time D403-15 (6080)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 6080
+[09/07/11 17:51:45 SA Western Standard Time D403-15 (6080)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/07/11 18:23:30 SA Western Standard Time D403-15 (2568)] INFO : Dispatcher: webrick
+[09/07/11 18:23:30 SA Western Standard Time D403-15 (2568)] INFO : Application: My Application
+[09/07/11 18:23:30 SA Western Standard Time D403-15 (2568)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/07/11 18:23:30 SA Western Standard Time D403-15 (2568)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 2568
+[09/07/11 18:23:30 SA Western Standard Time D403-15 (2568)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/08/11 10:48:24 SA Western Standard Time D403-15 (5376)] INFO : Dispatcher: webrick
+[09/08/11 10:48:24 SA Western Standard Time D403-15 (5376)] INFO : Application: My Application
+[09/08/11 10:48:24 SA Western Standard Time D403-15 (5376)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/08/11 10:48:24 SA Western Standard Time D403-15 (5376)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5376
+[09/08/11 10:48:24 SA Western Standard Time D403-15 (5376)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/08/11 10:59:32 SA Western Standard Time D403-15 (6128)] INFO : Dispatcher: webrick
+[09/08/11 10:59:32 SA Western Standard Time D403-15 (6128)] INFO : Application: My Application
+[09/08/11 10:59:32 SA Western Standard Time D403-15 (6128)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/08/11 10:59:32 SA Western Standard Time D403-15 (6128)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 6128
+[09/08/11 10:59:32 SA Western Standard Time D403-15 (6128)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/08/11 17:03:25 SA Western Standard Time D403-15 (5620)] INFO : Dispatcher: webrick
+[09/08/11 17:03:25 SA Western Standard Time D403-15 (5620)] INFO : Application: My Application
+[09/08/11 17:03:25 SA Western Standard Time D403-15 (5620)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/08/11 17:03:25 SA Western Standard Time D403-15 (5620)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5620
+[09/08/11 17:03:25 SA Western Standard Time D403-15 (5620)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/08/11 17:47:43 SA Western Standard Time D403-15 (2988)] INFO : Dispatcher: webrick
+[09/08/11 17:47:43 SA Western Standard Time D403-15 (2988)] INFO : Application: My Application
+[09/08/11 17:47:43 SA Western Standard Time D403-15 (2988)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/08/11 17:47:43 SA Western Standard Time D403-15 (2988)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 2988
+[09/08/11 17:47:43 SA Western Standard Time D403-15 (2988)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/08/11 18:15:34 SA Western Standard Time D403-15 (1888)] INFO : Dispatcher: webrick
+[09/08/11 18:15:34 SA Western Standard Time D403-15 (1888)] INFO : Application: My Application
+[09/08/11 18:15:34 SA Western Standard Time D403-15 (1888)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/08/11 18:15:34 SA Western Standard Time D403-15 (1888)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 1888
+[09/08/11 18:15:34 SA Western Standard Time D403-15 (1888)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/08/11 18:27:35 SA Western Standard Time D403-15 (5632)] INFO : Dispatcher: webrick
+[09/08/11 18:27:35 SA Western Standard Time D403-15 (5632)] INFO : Application: My Application
+[09/08/11 18:27:35 SA Western Standard Time D403-15 (5632)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/08/11 18:27:35 SA Western Standard Time D403-15 (5632)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5632
+[09/08/11 18:27:35 SA Western Standard Time D403-15 (5632)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/09/11 10:42:12 SA Western Standard Time D403-15 (3848)] INFO : Dispatcher: webrick
+[09/09/11 10:42:12 SA Western Standard Time D403-15 (3848)] INFO : Application: My Application
+[09/09/11 10:42:12 SA Western Standard Time D403-15 (3848)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/09/11 10:42:12 SA Western Standard Time D403-15 (3848)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 3848
+[09/09/11 10:42:12 SA Western Standard Time D403-15 (3848)] INFO : Agent Log at D:/rails_workspace/jobster/log/newrelic_agent.log
+[09/09/11 11:13:24 SA Western Standard Time D403-15 (5668)] INFO : Dispatcher: webrick
+[09/09/11 11:13:24 SA Western Standard Time D403-15 (5668)] INFO : Application: My Application
+[09/09/11 11:13:24 SA Western Standard Time D403-15 (5668)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/09/11 11:13:24 SA Western Standard Time D403-15 (5668)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5668
+[09/09/11 11:13:24 SA Western Standard Time D403-15 (5668)] INFO : Agent Log at D:/BACKUPS/jobster/log/newrelic_agent.log
+[09/09/11 12:17:30 SA Western Standard Time D403-15 (5776)] INFO : Dispatcher: webrick
+[09/09/11 12:17:30 SA Western Standard Time D403-15 (5776)] INFO : Application: My Application
+[09/09/11 12:17:30 SA Western Standard Time D403-15 (5776)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/09/11 12:17:30 SA Western Standard Time D403-15 (5776)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5776
+[09/09/11 12:17:30 SA Western Standard Time D403-15 (5776)] INFO : Agent Log at D:/BACKUPS/jobster/log/newrelic_agent.log
+[09/22/11 18:10:07 SA Western Standard Time D403-15 (5716)] INFO : Dispatcher: webrick
+[09/22/11 18:10:07 SA Western Standard Time D403-15 (5716)] INFO : Application: My Application
+[09/22/11 18:10:07 SA Western Standard Time D403-15 (5716)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/22/11 18:10:07 SA Western Standard Time D403-15 (5716)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5716
+[09/22/11 18:10:07 SA Western Standard Time D403-15 (5716)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/23/11 11:05:01 SA Western Standard Time D403-15 (4284)] INFO : Dispatcher: webrick
+[09/23/11 11:05:01 SA Western Standard Time D403-15 (4284)] INFO : Application: My Application
+[09/23/11 11:05:01 SA Western Standard Time D403-15 (4284)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/23/11 11:05:01 SA Western Standard Time D403-15 (4284)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4284
+[09/23/11 11:05:01 SA Western Standard Time D403-15 (4284)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/23/11 15:26:30 SA Western Standard Time D403-15 (4276)] INFO : Dispatcher: webrick
+[09/23/11 15:26:30 SA Western Standard Time D403-15 (4276)] INFO : Application: My Application
+[09/23/11 15:26:30 SA Western Standard Time D403-15 (4276)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/23/11 15:26:30 SA Western Standard Time D403-15 (4276)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4276
+[09/23/11 15:26:30 SA Western Standard Time D403-15 (4276)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/23/11 15:43:28 SA Western Standard Time D403-15 (3872)] INFO : Dispatcher: webrick
+[09/23/11 15:43:28 SA Western Standard Time D403-15 (3872)] INFO : Application: My Application
+[09/23/11 15:43:28 SA Western Standard Time D403-15 (3872)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/23/11 15:43:28 SA Western Standard Time D403-15 (3872)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 3872
+[09/23/11 15:43:28 SA Western Standard Time D403-15 (3872)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/26/11 07:37:33 SA Western Standard Time D403-15 (4700)] INFO : Dispatcher: webrick
+[09/26/11 07:37:33 SA Western Standard Time D403-15 (4700)] INFO : Application: My Application
+[09/26/11 07:37:33 SA Western Standard Time D403-15 (4700)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/26/11 07:37:33 SA Western Standard Time D403-15 (4700)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4700
+[09/26/11 07:37:33 SA Western Standard Time D403-15 (4700)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/26/11 09:14:39 SA Western Standard Time D403-15 (5104)] INFO : Dispatcher: webrick
+[09/26/11 09:14:39 SA Western Standard Time D403-15 (5104)] INFO : Application: My Application
+[09/26/11 09:14:39 SA Western Standard Time D403-15 (5104)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/26/11 09:14:39 SA Western Standard Time D403-15 (5104)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5104
+[09/26/11 09:14:39 SA Western Standard Time D403-15 (5104)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/26/11 11:28:13 SA Western Standard Time D403-15 (6068)] INFO : Dispatcher: webrick
+[09/26/11 11:28:13 SA Western Standard Time D403-15 (6068)] INFO : Application: My Application
+[09/26/11 11:28:13 SA Western Standard Time D403-15 (6068)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/26/11 11:28:13 SA Western Standard Time D403-15 (6068)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 6068
+[09/26/11 11:28:13 SA Western Standard Time D403-15 (6068)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/26/11 18:14:37 SA Western Standard Time D403-15 (4468)] INFO : Dispatcher: webrick
+[09/26/11 18:14:37 SA Western Standard Time D403-15 (4468)] INFO : Application: My Application
+[09/26/11 18:14:37 SA Western Standard Time D403-15 (4468)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/26/11 18:14:37 SA Western Standard Time D403-15 (4468)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4468
+[09/26/11 18:14:37 SA Western Standard Time D403-15 (4468)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/26/11 19:24:50 SA Western Standard Time D403-15 (4340)] INFO : Dispatcher: webrick
+[09/26/11 19:24:50 SA Western Standard Time D403-15 (4340)] INFO : Application: My Application
+[09/26/11 19:24:50 SA Western Standard Time D403-15 (4340)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/26/11 19:24:50 SA Western Standard Time D403-15 (4340)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4340
+[09/26/11 19:24:50 SA Western Standard Time D403-15 (4340)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/27/11 16:14:58 SA Western Standard Time D403-15 (4536)] INFO : Dispatcher: webrick
+[09/27/11 16:14:58 SA Western Standard Time D403-15 (4536)] INFO : Application: My Application
+[09/27/11 16:14:58 SA Western Standard Time D403-15 (4536)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/11 16:14:58 SA Western Standard Time D403-15 (4536)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4536
+[09/27/11 16:14:58 SA Western Standard Time D403-15 (4536)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[09/30/11 17:38:09 SA Western Standard Time D403-15 (4536)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `desc' for :created_at:Symbol
+[10/03/11 09:11:38 SA Western Standard Time D403-15 (4220)] INFO : Dispatcher: webrick
+[10/03/11 09:11:38 SA Western Standard Time D403-15 (4220)] INFO : Application: My Application
+[10/03/11 09:11:38 SA Western Standard Time D403-15 (4220)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/03/11 09:11:38 SA Western Standard Time D403-15 (4220)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4220
+[10/03/11 09:11:38 SA Western Standard Time D403-15 (4220)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/03/11 18:54:08 SA Western Standard Time D403-15 (796)] INFO : Dispatcher: webrick
+[10/03/11 18:54:08 SA Western Standard Time D403-15 (796)] INFO : Application: My Application
+[10/03/11 18:54:08 SA Western Standard Time D403-15 (796)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/03/11 18:54:08 SA Western Standard Time D403-15 (796)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 796
+[10/03/11 18:54:08 SA Western Standard Time D403-15 (796)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/05/11 09:42:30 SA Western Standard Time D403-15 (4808)] INFO : Dispatcher: webrick
+[10/05/11 09:42:30 SA Western Standard Time D403-15 (4808)] INFO : Application: My Application
+[10/05/11 09:42:30 SA Western Standard Time D403-15 (4808)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/11 09:42:30 SA Western Standard Time D403-15 (4808)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4808
+[10/05/11 09:42:30 SA Western Standard Time D403-15 (4808)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/05/11 16:42:00 SA Western Standard Time D403-15 (4676)] INFO : Dispatcher: webrick
+[10/05/11 16:42:00 SA Western Standard Time D403-15 (4676)] INFO : Application: My Application
+[10/05/11 16:42:00 SA Western Standard Time D403-15 (4676)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/11 16:42:00 SA Western Standard Time D403-15 (4676)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4676
+[10/05/11 16:42:00 SA Western Standard Time D403-15 (4676)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/05/11 17:19:19 SA Western Standard Time D403-15 (5792)] INFO : Dispatcher: webrick
+[10/05/11 17:19:19 SA Western Standard Time D403-15 (5792)] INFO : Application: My Application
+[10/05/11 17:19:19 SA Western Standard Time D403-15 (5792)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/11 17:19:19 SA Western Standard Time D403-15 (5792)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5792
+[10/05/11 17:19:19 SA Western Standard Time D403-15 (5792)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/05/11 18:03:13 SA Western Standard Time D403-15 (5340)] INFO : Dispatcher: webrick
+[10/05/11 18:03:13 SA Western Standard Time D403-15 (5340)] INFO : Application: My Application
+[10/05/11 18:03:13 SA Western Standard Time D403-15 (5340)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/11 18:03:13 SA Western Standard Time D403-15 (5340)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5340
+[10/05/11 18:03:13 SA Western Standard Time D403-15 (5340)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/05/11 18:36:30 SA Western Standard Time D403-15 (5660)] INFO : Dispatcher: webrick
+[10/05/11 18:36:30 SA Western Standard Time D403-15 (5660)] INFO : Application: My Application
+[10/05/11 18:36:30 SA Western Standard Time D403-15 (5660)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/11 18:36:30 SA Western Standard Time D403-15 (5660)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5660
+[10/05/11 18:36:30 SA Western Standard Time D403-15 (5660)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/05/11 19:04:24 SA Western Standard Time D403-15 (5656)] INFO : Dispatcher: webrick
+[10/05/11 19:04:24 SA Western Standard Time D403-15 (5656)] INFO : Application: My Application
+[10/05/11 19:04:24 SA Western Standard Time D403-15 (5656)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/11 19:04:24 SA Western Standard Time D403-15 (5656)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5656
+[10/05/11 19:04:24 SA Western Standard Time D403-15 (5656)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/05/11 19:25:43 SA Western Standard Time D403-15 (3740)] INFO : Dispatcher: webrick
+[10/05/11 19:25:43 SA Western Standard Time D403-15 (3740)] INFO : Application: My Application
+[10/05/11 19:25:43 SA Western Standard Time D403-15 (3740)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/11 19:25:43 SA Western Standard Time D403-15 (3740)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 3740
+[10/05/11 19:25:43 SA Western Standard Time D403-15 (3740)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/06/11 10:13:46 SA Western Standard Time D403-15 (5808)] INFO : Dispatcher: webrick
+[10/06/11 10:13:46 SA Western Standard Time D403-15 (5808)] INFO : Application: My Application
+[10/06/11 10:13:46 SA Western Standard Time D403-15 (5808)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/06/11 10:13:46 SA Western Standard Time D403-15 (5808)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5808
+[10/06/11 10:13:46 SA Western Standard Time D403-15 (5808)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/06/11 16:57:16 SA Western Standard Time D403-15 (3792)] INFO : Dispatcher: webrick
+[10/06/11 16:57:16 SA Western Standard Time D403-15 (3792)] INFO : Application: My Application
+[10/06/11 16:57:16 SA Western Standard Time D403-15 (3792)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/06/11 16:57:16 SA Western Standard Time D403-15 (3792)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 3792
+[10/06/11 16:57:16 SA Western Standard Time D403-15 (3792)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/07/11 11:08:48 SA Western Standard Time D403-15 (3928)] INFO : Dispatcher: webrick
+[10/07/11 11:08:48 SA Western Standard Time D403-15 (3928)] INFO : Application: My Application
+[10/07/11 11:08:48 SA Western Standard Time D403-15 (3928)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/07/11 11:08:48 SA Western Standard Time D403-15 (3928)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 3928
+[10/07/11 11:08:48 SA Western Standard Time D403-15 (3928)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/11/11 09:40:37 SA Western Standard Time D403-15 (5576)] INFO : Dispatcher: webrick
+[10/11/11 09:40:37 SA Western Standard Time D403-15 (5576)] INFO : Application: My Application
+[10/11/11 09:40:37 SA Western Standard Time D403-15 (5576)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/11/11 09:40:37 SA Western Standard Time D403-15 (5576)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5576
+[10/11/11 09:40:37 SA Western Standard Time D403-15 (5576)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/11/11 09:48:14 SA Western Standard Time D403-15 (5180)] INFO : Dispatcher: webrick
+[10/11/11 09:48:14 SA Western Standard Time D403-15 (5180)] INFO : Application: My Application
+[10/11/11 09:48:14 SA Western Standard Time D403-15 (5180)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/11/11 09:48:14 SA Western Standard Time D403-15 (5180)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5180
+[10/11/11 09:48:14 SA Western Standard Time D403-15 (5180)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/11/11 11:28:29 SA Western Standard Time D403-15 (5180)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Message with ID=destroy
+[10/11/11 11:31:07 SA Western Standard Time D403-15 (5180)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Message with ID=destroy
+[10/11/11 11:48:52 SA Western Standard Time D403-15 (5180)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/11/11 11:52:06 SA Western Standard Time D403-15 (5180)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/11/11 11:52:31 SA Western Standard Time D403-15 (5180)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/11/11 11:59:53 SA Western Standard Time D403-15 (5180)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/11/11 12:02:06 SA Western Standard Time D403-15 (5180)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/11/11 16:47:13 SA Western Standard Time D403-15 (5628)] INFO : Dispatcher: webrick
+[10/11/11 16:47:13 SA Western Standard Time D403-15 (5628)] INFO : Application: My Application
+[10/11/11 16:47:13 SA Western Standard Time D403-15 (5628)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/11/11 16:47:13 SA Western Standard Time D403-15 (5628)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5628
+[10/11/11 16:47:13 SA Western Standard Time D403-15 (5628)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/11/11 17:13:50 SA Western Standard Time D403-15 (4136)] INFO : Dispatcher: webrick
+[10/11/11 17:13:50 SA Western Standard Time D403-15 (4136)] INFO : Application: My Application
+[10/11/11 17:13:50 SA Western Standard Time D403-15 (4136)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/11/11 17:13:50 SA Western Standard Time D403-15 (4136)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4136
+[10/11/11 17:13:50 SA Western Standard Time D403-15 (4136)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/11/11 17:24:54 SA Western Standard Time D403-15 (4528)] INFO : Dispatcher: webrick
+[10/11/11 17:24:54 SA Western Standard Time D403-15 (4528)] INFO : Application: My Application
+[10/11/11 17:24:54 SA Western Standard Time D403-15 (4528)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/11/11 17:24:54 SA Western Standard Time D403-15 (4528)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4528
+[10/11/11 17:24:54 SA Western Standard Time D403-15 (4528)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/11/11 17:40:16 SA Western Standard Time D403-15 (4100)] INFO : Dispatcher: webrick
+[10/11/11 17:40:16 SA Western Standard Time D403-15 (4100)] INFO : Application: My Application
+[10/11/11 17:40:16 SA Western Standard Time D403-15 (4100)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/11/11 17:40:16 SA Western Standard Time D403-15 (4100)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4100
+[10/11/11 17:40:16 SA Western Standard Time D403-15 (4100)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/11/11 18:11:27 SA Western Standard Time D403-15 (5152)] INFO : Dispatcher: webrick
+[10/11/11 18:11:27 SA Western Standard Time D403-15 (5152)] INFO : Application: My Application
+[10/11/11 18:11:27 SA Western Standard Time D403-15 (5152)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/11/11 18:11:27 SA Western Standard Time D403-15 (5152)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5152
+[10/11/11 18:11:27 SA Western Standard Time D403-15 (5152)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/11/11 19:11:50 SA Western Standard Time D403-15 (256)] INFO : Dispatcher: webrick
+[10/11/11 19:11:50 SA Western Standard Time D403-15 (256)] INFO : Application: My Application
+[10/11/11 19:11:50 SA Western Standard Time D403-15 (256)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/11/11 19:11:50 SA Western Standard Time D403-15 (256)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 256
+[10/11/11 19:11:50 SA Western Standard Time D403-15 (256)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/12/11 09:38:31 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/12/11 09:39:35 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `snippet' for #<#<Class:0x6584730>:0x657b400>
+[10/12/11 09:40:04 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `subject' for #<Message:0x5f9a168>
+[10/12/11 09:41:04 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/12/11 09:43:49 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `subject' for #<Message:0x6438c18>
+[10/12/11 09:44:11 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `from' for #<Message:0x61787e8>
+[10/12/11 09:45:04 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `to' for #<Message:0x654e4a8>
+[10/12/11 09:51:39 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `from' for #<Reply:0x624ecb8>
+[10/12/11 09:53:43 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `text' for #<Reply:0x636c888>
+[10/12/11 10:05:39 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:19: syntax error, unexpected ';', expecting ')'
+));}\n      <div class='quiet'>#{...
+   ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:19: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+));}\n      <div class='quiet'>#{_hamlout.adjust_tab...
+                      ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:20: syntax error, unexpected ')'
+));}</div>\n    </div>\n    <hr class='space'>\n", -1, false);end
+ ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:20: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:20: syntax error, unexpected $undefined
+));}</div>\n    </div>\n    <hr class='space'>\n", -1, false);end
+                       ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:20: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+));}</div>\n    </div>\n    <hr class='space'>\n", -1, false);end
+                                     ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:20: syntax error, unexpected $undefined
+));}</div>\n    </div>\n    <hr class='space'>\n", -1, false);end
+                                               ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:25: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:25: syntax error, unexpected $undefined
+));}\n      <br>\n    </div>\n  </div>\n</div>\n", -3, fals...
+                             ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:25: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:25: syntax error, unexpected $undefined
+...n    </div>\n  </div>\n</div>\n", -3, false);::Haml::Util.ht...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:25: unterminated string meets end of file
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/show.haml:25: syntax error, unexpected $end, expecting '}'
+[10/12/11 10:06:27 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with ID=dan
+[10/12/11 10:20:43 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown key(s): open
+[10/12/11 10:21:28 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown key(s): opened
+[10/12/11 10:24:00 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `open=' for #<Message:0x648ac50>
+[10/12/11 10:29:58 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/12/11 10:31:14 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/12/11 10:31:33 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/12/11 10:33:40 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/12/11 10:37:26 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/12/11 10:37:45 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/12/11 10:38:04 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/12/11 11:06:19 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:22: syntax error, unexpected '>'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:24: syntax error, unexpected '>'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected $undefined, expecting ')'
+...ml_temp);_hamlout.push_text("\n      <hr class='space'>\n   ...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+...t.push_text("\n      <hr class='space'>\n    </div>\n    <di...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected $undefined
+...t("\n      <hr class='space'>\n    </div>\n    <div id='mess...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected $undefined
+...photo_url }")}>\n      </div>\n      <div class='span-4'>\n ...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+...      </div>\n      <div class='span-4'>\n        <a#{_hamlo...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected $undefined
+...>\n      <div class='span-4'>\n        <a#{_hamlout.adjust_t...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:35: syntax error, unexpected '}', expecting ')'
+...f => "/user/#{usr.username}")}>#{_hamlout.adjust_tabs(1); _h...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:37: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:37: syntax error, unexpected $undefined
+));}</div>\n      </div>\n      <div clas...
+           ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:44: unknown regexp options - trg
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:44: syntax error, unexpected $undefined
+));}</strong>\n", 0, false);end
+              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:45: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:45: syntax error, unexpected $undefined
+...         </a>\n        </div>\n        #{_hamlout.adjust_tab...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:46: syntax error, unexpected $undefined, expecting kEND
+));}\n      </div>\n      <div class='span-1 last...
+                   ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:46: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+...      </div>\n      <div class='span-1 last'>\n        <form...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:46: syntax error, unexpected $undefined
+...    <div class='span-1 last'>\n        <form#{_hamlout.attri...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:48: syntax error, unexpected '}', expecting kEND
+...);', :class => 'remove_link')}></a>\n        </form>\n      ...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:48: unknown regexp options - fr
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:48: syntax error, unexpected $undefined
+...link')}></a>\n        </form>\n      </div>\n      <hr>\n", ...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:49: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/
+[10/12/11 11:06:51 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:22: syntax error, unexpected '>'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:24: syntax error, unexpected '>'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected $undefined, expecting ')'
+...ml_temp);_hamlout.push_text("\n      <hr class='space'>\n   ...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+...t.push_text("\n      <hr class='space'>\n    </div>\n    <di...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected $undefined
+...t("\n      <hr class='space'>\n    </div>\n    <div id='mess...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected $undefined
+...photo_url }")}>\n      </div>\n      <div class='span-4'>\n ...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+...      </div>\n      <div class='span-4'>\n        <a#{_hamlo...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected $undefined
+...>\n      <div class='span-4'>\n        <a#{_hamlout.adjust_t...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:35: syntax error, unexpected '}', expecting ')'
+...f => "/user/#{usr.username}")}>#{_hamlout.adjust_tabs(1); _h...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:37: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:37: syntax error, unexpected $undefined
+));}</div>\n      </div>\n      <div clas...
+           ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:44: unknown regexp options - trg
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:44: syntax error, unexpected $undefined
+));}</strong>\n", 0, false);end
+              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:45: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:45: syntax error, unexpected $undefined
+...         </a>\n        </div>\n        #{_hamlout.adjust_tab...
+                              ^
+[10/12/11 11:07:07 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:22: syntax error, unexpected '>'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:24: syntax error, unexpected '>'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected $undefined, expecting ')'
+...ml_temp);_hamlout.push_text("\n      <hr class='space'>\n   ...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+...t.push_text("\n      <hr class='space'>\n    </div>\n    <di...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:26: syntax error, unexpected $undefined
+...t("\n      <hr class='space'>\n    </div>\n    <div id='mess...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected $undefined
+...photo_url }")}>\n      </div>\n      <div class='span-4'>\n ...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected kCLASS, expecting kDO or '{' or '('
+...      </div>\n      <div class='span-4'>\n        <a#{_hamlo...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:33: syntax error, unexpected $undefined
+...>\n      <div class='span-4'>\n        <a#{_hamlout.adjust_t...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:35: syntax error, unexpected '}', expecting ')'
+...f => "/user/#{usr.username}")}>#{_hamlout.adjust_tabs(1); _h...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:37: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:37: syntax error, unexpected $undefined
+));}</div>\n      </div>\n      <div clas...
+           ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:44: unknown regexp options - trg
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:44: syntax error, unexpected $undefined
+));}</strong>\n", 0, false);end
+              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:45: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:45: syntax error, unexpected $undefined
+...         </a>\n        </div>\n        #{_hamlout.adjust_tab...
+                              ^
+[10/12/11 11:08:06 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/12/11 11:17:35 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for ActiveRecord::Relation:Class
+[10/12/11 11:22:13 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:22: syntax error, unexpected '>'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:36: syntax error, unexpected kDO_BLOCK, expecting kEND
+_hamlout.append_if_string=  @messages.each do |msg|
+                                             ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:56: syntax error, unexpected kENSURE, expecting $end
+[10/12/11 11:23:16 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/12/11 11:24:19 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/12/11 11:34:45 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/12/11 12:07:54 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `replies' for #<ActsAsMessageable::Message:0x65d46f8>
+[10/12/11 14:26:26 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Inconsistent indentation: 9 spaces were used for indentation, but the rest of the document was indented using 2 spaces.
+[10/12/11 14:53:44 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Message with ID=destroy
+[10/12/11 14:54:31 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Message with ID=destroy
+[10/12/11 14:56:52 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `message' for #<#<Class:0x64ab728>:0x64a7ca8>
+[10/12/11 15:30:38 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `from' for #<Message:0x5b786e0>
+[10/12/11 16:03:43 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `from' for #<Message:0x6017028>
+[10/12/11 16:32:14 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal nesting: nesting within plain text is illegal.
+[10/12/11 16:32:34 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:48: syntax error, unexpected ')', expecting '}'
+));}\n      </div>\n      <div c...
+  ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:55: unknown regexp options - trg
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:55: syntax error, unexpected $undefined
+));}</strong>\n", 0, false);end
+              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:56: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:56: syntax error, unexpected $undefined
+...         </a>\n        </div>\n        #{_hamlout.adjust_tab...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:58: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:58: syntax error, unexpected $undefined
+));}\n      </div>\n      <hr>\n", -1, false);end
+                   ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:58: syntax error, unexpected $undefined
+));}\n      </div>\n      <hr>\n", -1, false);end
+                               ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:59: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:59: syntax error, unexpected $undefined
+...sh_text("    </div>\n  </div>\n</div>\n", -3, false);::Haml:...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:59: unterminated string meets end of file
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/messages/index.haml:59: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR
+[10/12/11 16:44:56 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `from' for #<Message:0x64b5088>
+[10/14/11 15:46:11 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `confirmed_events' for #<User:0x5a7deb0>
+[10/14/11 16:47:10 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: The line was indented 3 levels deeper than the previous line.
+[10/14/11 16:48:08 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/14/11 16:50:11 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `invites' for #<Event:0xdc36830>
+[10/14/11 17:56:19 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.+
+[10/14/11 17:58:02 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.+
+[10/14/11 18:00:07 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.+
+[10/14/11 18:01:11 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.+
+[10/14/11 18:01:55 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.+
+[10/14/11 18:09:45 SA Western Standard Time D403-15 (256)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/17/11 09:39:30 SA Western Standard Time D403-15 (196)] INFO : Dispatcher: webrick
+[10/17/11 09:39:30 SA Western Standard Time D403-15 (196)] INFO : Application: My Application
+[10/17/11 09:39:30 SA Western Standard Time D403-15 (196)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/17/11 09:39:30 SA Western Standard Time D403-15 (196)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 196
+[10/17/11 09:39:30 SA Western Standard Time D403-15 (196)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/18/11 09:59:42 SA Western Standard Time D403-15 (724)] INFO : Dispatcher: webrick
+[10/18/11 09:59:42 SA Western Standard Time D403-15 (724)] INFO : Application: My Application
+[10/18/11 09:59:42 SA Western Standard Time D403-15 (724)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/18/11 09:59:42 SA Western Standard Time D403-15 (724)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 724
+[10/18/11 09:59:42 SA Western Standard Time D403-15 (724)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/18/11 14:38:48 SA Western Standard Time D403-15 (2980)] INFO : Dispatcher: webrick
+[10/18/11 14:38:48 SA Western Standard Time D403-15 (2980)] INFO : Application: My Application
+[10/18/11 14:38:48 SA Western Standard Time D403-15 (2980)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/18/11 14:38:48 SA Western Standard Time D403-15 (2980)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 2980
+[10/18/11 14:38:48 SA Western Standard Time D403-15 (2980)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/18/11 17:13:39 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.split
+[10/18/11 17:15:13 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.split
+[10/18/11 17:17:07 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/18/11 17:17:44 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/18/11 17:28:19 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.[]
+[10/18/11 19:45:53 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_rsvp.haml:12: syntax error, unexpected kENSURE, expecting $end
+[10/18/11 19:47:31 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_rsvp.haml:12: syntax error, unexpected kENSURE, expecting $end
+[10/18/11 19:52:22 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.[]
+[10/18/11 19:56:50 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `attendance' for #<#<Class:0x5ef9d58>:0x5ef71a8>
+[10/19/11 11:43:47 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 11:43:53 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 11:44:29 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: The line was indented 2 levels deeper than the previous line.
+[10/19/11 15:18:55 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=colony_header_main
+[10/19/11 15:19:56 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=jobster_header_main
+[10/19/11 16:38:54 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:26:55 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:27:35 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:28:20 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:28:26 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:28:44 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:30:29 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:33:04 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:34:37 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:36:41 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:37:27 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:40:11 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:41:18 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:43:48 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/19/11 17:46:38 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/19/11 17:48:16 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:49:05 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:49:17 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:53:25 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:53:58 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 17:58:24 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:02:02 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:06:49 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:08:01 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/19/11 18:11:16 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/19/11 18:12:34 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/19/11 18:13:47 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:14:34 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:14:59 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:15:16 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:15:22 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:17:19 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:18:48 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:18:58 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:20:57 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:23:04 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:25:22 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template events/post_wall with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/19/11 18:28:20 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:30:35 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:30:50 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:31:07 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:45:13 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=post_wall
+[10/19/11 18:51:03 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=post_wall
+[10/19/11 18:53:00 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=post_wall
+[10/19/11 18:53:28 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=post_wall
+[10/19/11 18:54:25 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 18:54:48 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 19:03:52 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=post_wall
+[10/19/11 19:08:23 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=post_wall
+[10/19/11 19:09:10 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=post_wall
+[10/19/11 19:10:17 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=post_wall
+[10/19/11 19:11:14 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 19:14:36 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 19:16:29 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/19/11 19:24:39 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Inconsistent indentation: 1 tab was used for indentation, but the rest of the document was indented using 2 spaces.
+[10/19/11 19:25:52 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_event_wall_box.haml:16: syntax error, unexpected kENSURE, expecting $end
+[10/19/11 19:27:14 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_event_wall_box.haml:16: syntax error, unexpected kENSURE, expecting $end
+[10/20/11 17:45:36 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 17:48:54 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 17:49:12 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 17:49:39 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 17:50:15 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 17:52:36 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 17:58:02 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 18:03:37 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 18:06:17 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 18:09:41 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 18:20:20 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/20/11 18:31:12 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts_path' for #<#<Class:0xdd20f20>:0xdd15c70>
+[10/20/11 18:38:35 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for #<User:0xdae4bf8>
+[10/20/11 19:25:06 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments (3 for 2)
+[10/20/11 19:26:25 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments (3 for 2)
+[10/20/11 19:26:35 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments (3 for 2)
+[10/20/11 19:26:56 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.erb:2: syntax error, unexpected ',', expecting '}'
+...append= ( f.text_field {:post, :text}, :rows => 10, :cols =>...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.erb:2: syntax error, unexpected ',', expecting ')'
+...( f.text_field {:post, :text}, :rows => 10, :cols => 60 );@o...
+                              ^
+[10/20/11 19:27:23 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments (3 for 2)
+[10/20/11 20:24:15 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Inconsistent indentation: 1 tab was used for indentation, but the rest of the document was indented using 2 spaces.
+[10/21/11 09:26:54 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for #<User:0xd27ea50>
+[10/21/11 09:29:28 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for #<User:0xcd77630>
+[10/21/11 09:40:01 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:4: syntax error, unexpected kENSURE, expecting $end
+[10/21/11 09:55:13 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:5: syntax error, unexpected '}', expecting ')'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:6: unknown regexp options - pa
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:6: syntax error, unexpected $undefined
+...counter'>\n    160\n  </span>\n  characters left\n</div>\n<d...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:6: syntax error, unexpected $undefined, expecting ')'
+...n  </span>\n  characters left\n</div>\n<div class='prepend-1...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:13: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:13: syntax error, unexpected $undefined
+));}\n</div>\n", -1, false);end
+             ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:14: syntax error, unexpected $undefined, expecting ')'
+...ml_temp);_hamlout.push_text("\n", 0, false);::Haml::Util.htm...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:14: unterminated string meets end of file
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/events/_wall.haml:14: syntax error, unexpected $end, expecting ')'
+[10/21/11 10:20:31 SA Western Standard Time D403-15 (2980)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal nesting: nesting within plain text is illegal.
+[10/21/11 10:44:47 SA Western Standard Time D403-15 (2364)] INFO : Dispatcher: webrick
+[10/21/11 10:44:47 SA Western Standard Time D403-15 (2364)] INFO : Application: My Application
+[10/21/11 10:44:47 SA Western Standard Time D403-15 (2364)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/21/11 10:44:47 SA Western Standard Time D403-15 (2364)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 2364
+[10/21/11 10:44:47 SA Western Standard Time D403-15 (2364)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/21/11 19:09:57 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `page_event_url' for #<#<Class:0x6332508>:0x6330318>
+[10/21/11 19:10:19 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=page
+[10/21/11 19:11:27 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `page_event_path' for #<#<Class:0x6284ef8>:0x6280f50>
+[10/21/11 19:14:09 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `page_event_path' for #<#<Class:0x63c30f0>:0x63b9028>
+[10/21/11 19:16:55 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=page
+[10/21/11 19:19:12 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=page
+[10/21/11 19:21:08 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template events/new with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/21/11 19:22:56 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"page", :controller=>"events"}
+[10/21/11 19:28:09 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/21/11 19:29:16 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/21/11 19:30:34 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/21/11 19:31:49 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event without an ID
+[10/21/11 19:33:04 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Validation failed: Title is too short (minimum is 3 characters)
+[10/21/11 19:50:40 SA Western Standard Time D403-15 (2364)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Validation failed: Title is too short (minimum is 3 characters)
+[10/24/11 08:47:21 SA Western Standard Time D403-15 (3096)] INFO : Dispatcher: webrick
+[10/24/11 08:47:21 SA Western Standard Time D403-15 (3096)] INFO : Application: My Application
+[10/24/11 08:47:21 SA Western Standard Time D403-15 (3096)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/24/11 08:47:21 SA Western Standard Time D403-15 (3096)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 3096
+[10/24/11 08:47:21 SA Western Standard Time D403-15 (3096)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/24/11 09:57:32 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `event' for #<Page:0x6308658>
+[10/24/11 10:02:42 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 10:04:37 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 10:09:13 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal element: classes and ids must have values.
+[10/24/11 10:11:02 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `event' for #<Page:0x62c85d8>
+[10/24/11 10:42:12 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 10:55:24 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Event with ID=pages
+[10/24/11 11:51:05 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 11:54:50 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pageable_type' for #<Event:0x5e15578>
+[10/24/11 11:55:30 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `humanize' for #<Event:0x6202e90>
+[10/24/11 11:55:57 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `humanize' for #<#<Class:0x5e2d2c0>:0x5e2b628>
+[10/24/11 11:58:18 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/pages/index.haml:12: syntax error, unexpected tIVAR, expecting ')'
+..."new page", "events/"@pageable.id"/pages/new"
+                              ^
+[10/24/11 12:06:12 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 12:11:44 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 12:12:50 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 12:13:42 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with ID=pages
+[10/24/11 12:20:28 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 15:19:53 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 15:21:01 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 15:37:39 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/24/11 15:37:55 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/24/11 15:41:43 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/24/11 15:49:16 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 15:50:57 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 15:51:37 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 15:53:10 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 15:53:50 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 15:54:02 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 16:01:59 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: No route matches {:action=>"new", :controller=>"pages"}
+[10/24/11 16:03:09 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `new_events_page_path' for #<#<Class:0x5d8db40>:0x5d87af8>
+[10/24/11 16:03:45 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 16:04:23 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 16:04:33 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `new_events_page_path' for #<#<Class:0x6442e90>:0x6438528>
+[10/24/11 16:06:29 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 16:11:50 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/24/11 16:28:52 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/pages/index.haml:12: syntax error, unexpected '?'
+...link_to  "new page", @event? ? "/events/@event.id/pages/new"...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/pages/index.haml:12: syntax error, unexpected ':', expecting ')'
+.../events/@event.id/pages/new" : new_page_path
+                              ^
+[10/24/11 16:30:54 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/pages/index.haml:12: syntax error, unexpected '?'
+...ink_to  "new page", (@event? ? "/events/@event.id/pages/new"...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/pages/index.haml:12: syntax error, unexpected ':', expecting ')'
+.../events/@event.id/pages/new" : new_page_path)
+                              ^
+[10/24/11 16:38:23 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/24/11 16:40:44 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/24/11 16:41:05 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/24/11 17:02:30 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Page with ID=eeeeevent
+[10/24/11 17:04:03 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Page with ID=second_party_announcement
+[10/24/11 17:06:02 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: String can't be coerced into Fixnum
+[10/24/11 17:13:05 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal nesting: nesting within plain text is illegal.
+[10/24/11 17:18:26 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal nesting: nesting within plain text is illegal.
+[10/24/11 19:17:41 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/24/11 19:18:19 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `groups' for #<User:0x159c1620>
+[10/24/11 19:20:44 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: SQLite3::SQLException: no such column: groups.user_id: SELECT "groups".* FROM "groups" WHERE ("groups".user_id = 6)
+[10/24/11 19:23:00 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/24/11 19:35:25 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: failed to allocate memory
+[10/24/11 19:42:27 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: failed to allocate memory
+[10/24/11 20:06:15 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Could not find the association :membership in model Group
+[10/24/11 20:08:16 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: failed to allocate memory
+[10/24/11 20:11:18 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: D:/rails_workspace/PROJECT_JOBSTER/jobster/app/models/membership.rb:2: syntax error, unexpected tSTRING_BEG, expecting kEND
+  belongs_to :member, :class_name 'User', :foreign_key => 'user_id'	
+                                   ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/models/membership.rb:2: syntax error, unexpected ',', expecting kEND
+  belongs_to :member, :class_name 'User', :foreign_key => 'user_id'	
+                                         ^
+[10/24/11 20:14:37 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: failed to allocate memory
+[10/24/11 20:18:27 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: failed to allocate memory
+[10/25/11 08:22:59 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: failed to allocate memory
+[10/25/11 09:06:40 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: failed to allocate memory
+[10/25/11 09:40:56 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: failed to allocate memory
+[10/25/11 09:43:42 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `nickname' for "#<User:0x14f19570>":User
+[10/25/11 09:46:47 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/25/11 09:48:47 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `nickname' for "#<User:0x15c8c700>":User
+[10/25/11 10:13:48 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `memberships_path' for #<#<Class:0x15640b60>:0x1563ec88>
+[10/25/11 10:35:13 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `page' for #<#<Class:0x15957db0>:0x159569b8>
+[10/25/11 10:46:53 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/25/11 10:48:42 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/25/11 11:07:05 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `membership' for #<User:0x155f6ca0>
+[10/25/11 11:20:29 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `membership_membership_path' for #<#<Class:0x15cffa08>:0x15cf9c48>
+[10/25/11 11:22:15 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `membership_membership_path' for #<#<Class:0x14e362c0>:0x14e34448>
+[10/25/11 11:25:05 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `membership_membership_path' for #<#<Class:0x15f57888>:0x15f553e0>
+[10/25/11 11:30:12 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for ActiveRecord::Relation:Class
+[10/25/11 11:33:56 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Unknown key(s): group_id
+[10/25/11 11:41:12 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find Membership with ID=4 [WHERE ("memberships".user_id = 1)]
+[10/25/11 11:45:17 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for ActiveRecord::Relation:Class
+[10/25/11 11:49:56 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for ActiveRecord::Relation:Class
+[10/25/11 11:57:02 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `membership_membership_path' for #<#<Class:0x14ce07d0>:0x14cdefb8>
+[10/25/11 12:01:31 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_join_group.haml:5: syntax error, unexpected ',', expecting ')'
+...if (m.group_id == @group.id) , :method => :delete
+                              ^
+[10/25/11 12:02:36 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_join_group.haml:5: syntax error, unexpected ',', expecting ')'
+...m if m.group_id == @group.id , :method => :delete
+                              ^
+[10/25/11 16:57:03 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant Page::Commentable
+[10/25/11 17:22:01 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `content' for #<Comment:0x14db6850>
+[10/25/11 17:37:38 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/25/11 17:38:48 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/25/11 17:40:53 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: SQLite3::SQLException: no such column: likes.page_id: SELECT COUNT(*) FROM "likes" WHERE ("likes".page_id = 27)
+[10/25/11 17:57:02 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: SQLite3::SQLException: no such column: likes.page_id: SELECT COUNT(*) FROM "likes" WHERE ("likes".page_id = 27)
+[10/25/11 17:58:01 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: SQLite3::SQLException: no such column: likes.page_id: SELECT COUNT(*) FROM "likes" WHERE ("likes".page_id = 27)
+[10/25/11 17:59:32 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `user' for #<Comment:0x146f0268>
+[10/25/11 18:13:09 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/25/11 18:14:36 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/25/11 18:28:54 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `comments_path' for #<#<Class:0x15ee7100>:0x15ee5690>
+[10/25/11 18:50:20 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `item' for #<#<Class:0x152f1030>:0x152efc98>
+[10/25/11 19:53:21 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `likes' for #<User:0x159f43e0>
+[10/25/11 20:10:28 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant Likeable
+[10/25/11 20:17:17 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: SQLite3::SQLException: no such column: likes.page_id: SELECT COUNT(*) FROM "likes" WHERE ("likes".page_id = 23)
+[10/25/11 20:20:05 SA Western Standard Time D403-15 (3096)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: SQLite3::SQLException: no such column: likes.page_id: SELECT COUNT(*) FROM "likes" WHERE ("likes".page_id = 23)
+[10/26/11 08:53:58 SA Western Standard Time D403-15 (5788)] INFO : Dispatcher: webrick
+[10/26/11 08:53:58 SA Western Standard Time D403-15 (5788)] INFO : Application: My Application
+[10/26/11 08:53:58 SA Western Standard Time D403-15 (5788)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/26/11 08:53:58 SA Western Standard Time D403-15 (5788)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5788
+[10/26/11 08:53:58 SA Western Standard Time D403-15 (5788)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/26/11 12:02:34 SA Western Standard Time D403-15 (620)] INFO : Dispatcher: webrick
+[10/26/11 12:02:34 SA Western Standard Time D403-15 (620)] INFO : Application: My Application
+[10/26/11 12:02:34 SA Western Standard Time D403-15 (620)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/26/11 12:02:34 SA Western Standard Time D403-15 (620)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 620
+[10/26/11 12:02:34 SA Western Standard Time D403-15 (620)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/26/11 17:16:23 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `like' for #<#<Class:0x6205698>:0x6200118>
+[10/26/11 19:44:42 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `activities' for #<User:0x5a3a1e8>
+[10/26/11 19:45:38 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/26/11 19:46:32 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/26/11 19:46:48 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/26/11 19:47:02 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `activities' for #<User:0x5ca1fb0>
+[10/26/11 19:51:00 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/26/11 19:55:38 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/26/11 19:56:28 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/26/11 20:08:11 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/26/11 20:08:24 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/26/11 20:25:01 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/26/11 20:26:20 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/26/11 20:27:02 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/26/11 20:27:21 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/26/11 20:27:59 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `wall' for nil:NilClass
+[10/26/11 20:28:40 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/26/11 20:29:34 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/26/11 20:30:13 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/26/11 20:30:59 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/27/11 08:14:34 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: stack level too deep
+[10/27/11 08:23:40 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: stack level too deep
+[10/27/11 08:25:01 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: stack level too deep
+[10/27/11 08:28:54 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:29:57 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:31:23 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:32:06 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:32:35 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:35:30 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:36:58 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:39:17 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:40:58 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:41:09 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:42:44 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:44:21 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:48:20 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/27/11 08:54:38 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/27/11 09:12:04 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:9: syntax error, unexpected ';', expecting ')'
+));}\n", 0, false);_hamlout.appen...
+   ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:12: syntax error, unexpected ')', expecting '}'
+));}\n", 0, false); else
+ ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:14: syntax error, unexpected ')', expecting '}'
+));}\n    #{_hamlout.format_scr...
+ ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:18: unknown regexp options - dv
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:18: syntax error, unexpected $undefined
+...t.push_text("  </div>\n</div>\n<div#{_hamlout.adjust_tabs(-2...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:22: syntax error, unexpected kEND, expecting '}'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:27: syntax error, unexpected kDO_BLOCK, expecting kEND
+_hamlout.append_if_string=  commentable.comments.each do |comment|
+                                                        ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:37: syntax error, unexpected kEND, expecting '}'
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:38: syntax error, unexpected kENSURE, expecting '}'
+...Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.u...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:38: syntax error, unexpected kEND, expecting '}'
+...uffer = @haml_buffer.upper;end;
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:41: syntax error, unexpected kEND, expecting '}'
+[10/27/11 09:14:03 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:8: syntax error, unexpected tIDENTIFIER, expecting ')'
+...le.likes.size, 'people') likes this.
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:9: syntax error, unexpected ')'
+));}\n", 0, false);_hamlout.app...
+ ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:27: syntax error, unexpected kDO_BLOCK, expecting kEND
+_hamlout.append_if_string=  commentable.comments.each do |comment|
+                                                        ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:37: syntax error, unexpected kEND, expecting $end
+[10/27/11 09:42:33 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial /user/contacts with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/27/11 09:43:12 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id
+[10/27/11 09:44:10 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: SQLite3::SQLException: no such column: photos.user_id: SELECT COUNT(*) FROM "photos" WHERE ("photos".user_id = 1)
+[10/27/11 11:28:20 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/27/11 11:29:56 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/27/11 11:50:14 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant ActionView::CompiledTemplates::Female
+[10/27/11 11:50:56 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/27/11 11:51:59 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/27/11 11:53:00 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `sex_id' for #<User:0x15b93940>
+[10/27/11 11:53:52 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `name' for "Male":String
+[10/27/11 11:54:53 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: {:prompt=>"Select Sex:"} is not a symbol
+[10/27/11 15:28:50 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `relationsip_status' for #<User:0x15ccf900>
+[10/27/11 15:39:23 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `model_name' for NilClass:Class
+[10/27/11 16:57:53 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/landing with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/27/11 17:00:08 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/landing with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/27/11 17:36:24 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/27/11 17:40:13 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/27/11 17:53:33 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/27/11 17:55:53 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/27/11 18:00:51 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/27/11 18:01:25 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/27/11 18:02:35 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Cannot redirect to nil!
+[10/27/11 18:04:55 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Cannot redirect to nil!
+[10/27/11 18:10:02 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/27/11 18:13:23 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/27/11 18:51:39 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/27/11 18:59:50 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/27/11 19:09:16 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/27/11 19:12:26 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/27/11 19:13:07 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/27/11 19:14:10 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with ID=14
+[10/27/11 19:17:29 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing partial users/comment_and_like with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/27/11 19:18:18 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `commentable' for #<#<Class:0x15aea1a0>:0x15ae7b60>
+[10/27/11 19:23:16 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `commentable' for #<#<Class:0x15fc25e0>:0x15fbc4d8>
+[10/27/11 19:24:22 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `activity_comments_path' for #<#<Class:0x16003a10>:0x16000bd8>
+[10/27/11 19:33:22 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `event' for #<Page:0x15aa6a18>
+[10/27/11 19:36:01 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `event' for #<Page:0x15ce10a8>
+[10/27/11 19:36:25 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `event' for #<Page:0x15dad960>
+[10/27/11 19:49:42 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/27/11 20:00:03 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: unknown attribute: username
+[10/27/11 20:08:13 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: unknown attribute: username
+[10/27/11 20:22:39 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal element: classes and ids must have values.
+[10/27/11 20:26:00 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/shared/_comment_and_like.haml:4: syntax error, unexpected '}', expecting ')'
+[10/27/11 20:35:41 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/28/11 10:29:12 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/28/11 10:30:57 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/28/11 10:31:12 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/28/11 10:31:24 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/28/11 11:06:06 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/28/11 11:23:08 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/28/11 11:24:46 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/28/11 12:04:46 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `current_user' for #<Friendship:0x15db0720>
+[10/28/11 12:09:57 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `frienships' for #<User:0x14fd5bb0>
+[10/28/11 12:12:35 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `friend' for #<User:0x1554cd08>
+[10/28/11 16:06:13 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/28/11 16:10:22 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each
+[10/28/11 18:08:07 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with ID=25
+[10/28/11 18:09:06 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with ID=27
+[10/28/11 18:11:33 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/28/11 18:11:51 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with ID=2
+[10/28/11 20:16:54 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal nesting: content can't be both given on the same line as %h3 and nested within it.
+[10/28/11 20:17:57 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal nesting: nesting within plain text is illegal.
+[10/28/11 20:18:56 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Illegal nesting: content can't be both given on the same line as %h3 and nested within it.
+[10/28/11 20:19:31 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `user' for #<#<Class:0x1502c1c0>:0x1502a408>
+[10/28/11 20:23:40 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `user' for #<#<Class:0x14f5a580>:0x14f58810>
+[10/28/11 20:24:08 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `user' for #<#<Class:0x14e97a48>:0x14e965f0>
+[10/28/11 20:29:31 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template contacts/index with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/28/11 20:36:10 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template contacts/index with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/28/11 20:36:49 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `show_search' for #<#<Class:0x15d96fe0>:0x15d8ca68>
+[10/28/11 20:37:18 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `downcase' for nil:NilClass
+[10/28/11 20:38:36 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `capitalize' for nil:NilClass
+[10/28/11 20:39:53 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `downcase' for nil:NilClass
+[10/31/11 09:06:31 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/31/11 09:13:24 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `username' for nil:NilClass
+[10/31/11 09:14:51 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/31/11 09:17:49 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/31/11 09:26:06 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/31/11 09:26:32 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/31/11 09:27:53 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/31/11 09:28:48 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/31/11 09:32:14 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/31/11 09:32:34 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/31/11 09:33:42 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/31/11 09:36:24 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with ID=show
+[10/31/11 09:39:11 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/31/11 09:43:32 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[10/31/11 10:08:19 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `pages' for nil:NilClass
+[10/31/11 10:15:16 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/create with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/31/11 10:44:29 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template users/create with {:handlers=>[:erb, :haml, :rjs, :rhtml, :arb, :rxml, :builder], :formats=>[:html], :locale=>[:en, :en]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[10/31/11 10:49:01 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User with ID=danhatescin2
+[10/31/11 10:49:17 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `received_messages' for nil:NilClass
+[10/31/11 11:37:37 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `posts' for nil:NilClass
+[10/31/11 11:43:45 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `contacts_contacts_user_path' for #<#<Class:0x151a9e80>:0x151a6b98>
+[10/31/11 11:44:44 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `contacts_user_path' for #<#<Class:0x15244680>:0x1523f298>
+[10/31/11 11:47:28 SA Western Standard Time D403-15 (620)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Couldn't find User without an ID
+[10/31/11 16:37:06 SA Western Standard Time D403-15 (4884)] INFO : Dispatcher: webrick
+[10/31/11 16:37:06 SA Western Standard Time D403-15 (4884)] INFO : Application: My Application
+[10/31/11 16:37:06 SA Western Standard Time D403-15 (4884)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/31/11 16:37:06 SA Western Standard Time D403-15 (4884)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 4884
+[10/31/11 16:37:06 SA Western Standard Time D403-15 (4884)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[10/31/11 16:57:12 SA Western Standard Time D403-15 (5348)] INFO : Dispatcher: webrick
+[10/31/11 16:57:12 SA Western Standard Time D403-15 (5348)] INFO : Application: My Application
+[10/31/11 16:57:12 SA Western Standard Time D403-15 (5348)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/31/11 16:57:12 SA Western Standard Time D403-15 (5348)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 5348
+[10/31/11 16:57:12 SA Western Standard Time D403-15 (5348)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[11/01/11 10:42:42 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: unknown attribute: receiver_id
+[11/01/11 10:42:57 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: unknown attribute: receiver_id
+[11/01/11 11:01:57 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template requests/show with {:handlers=>[:haml, :rhtml, :arb, :rxml, :erb, :builder, :rjs], :locale=>[:en, :en], :formats=>[:html]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[11/01/11 11:02:18 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `photo_url' for nil:NilClass
+[11/01/11 12:18:39 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: compile error
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/requests/pending.haml:20: syntax error, unexpected kENSURE, expecting kEND
+...Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.u...
+                              ^
+D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/requests/pending.haml:23: syntax error, unexpected $end, expecting kEND
+[11/01/11 13:46:19 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template requests/destroy with {:handlers=>[:haml, :rhtml, :arb, :rxml, :erb, :builder, :rjs], :locale=>[:en, :en], :formats=>[:html]} in view paths "D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/activeadmin-0.3.2/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/kaminari-0.12.4/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/ckeditor-3.6.1/app/views", "C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8/gems/devise-1.4.4/app/views"
+[11/01/11 14:01:30 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: wrong number of arguments (0 for 1)
+[11/01/11 16:27:08 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `statuses_path' for #<#<Class:0x154d9da8>:0x154d63a0>
+[11/01/11 16:34:02 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `status_comments_path' for #<#<Class:0x1530d578>:0x1530ba60>
+[11/01/11 16:54:01 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant Status::RestClient
+[11/01/11 17:10:06 SA Western Standard Time D403-15 (5348)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Invalid argument - http://tinyurl.com/api-create.php?url=http://net.tutsplus.com/tutorials/html-css-techniques/a-closer-look-at-the-blueprint-css-framework/
+[11/01/11 17:19:16 SA Western Standard Time D403-15 (1180)] INFO : Dispatcher: webrick
+[11/01/11 17:19:16 SA Western Standard Time D403-15 (1180)] INFO : Application: My Application
+[11/01/11 17:19:16 SA Western Standard Time D403-15 (1180)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/01/11 17:19:16 SA Western Standard Time D403-15 (1180)] INFO : New Relic Ruby Agent 3.1.1 Initialized: pid = 1180
+[11/01/11 17:19:16 SA Western Standard Time D403-15 (1180)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[11/02/11 00:12:41 Hora estándar de Sudamérica O. dell (2616)] INFO : Dispatcher: webrick
+[11/02/11 00:12:41 Hora estándar de Sudamérica O. dell (2616)] INFO : Application: My Application
+[11/02/11 00:12:41 Hora estándar de Sudamérica O. dell (2616)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/02/11 00:12:41 Hora estándar de Sudamérica O. dell (2616)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 2616
+[11/02/11 00:12:41 Hora estándar de Sudamérica O. dell (2616)] INFO : Agent Log at D:/PROJECT_JOBSTER/ALL_SN/jobster/log/newrelic_agent.log
+[11/02/11 14:53:29 Hora estándar de Sudamérica O. dell (4000)] INFO : Dispatcher: webrick
+[11/02/11 14:53:29 Hora estándar de Sudamérica O. dell (4000)] INFO : Application: My Application
+[11/02/11 14:53:29 Hora estándar de Sudamérica O. dell (4000)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/02/11 14:53:29 Hora estándar de Sudamérica O. dell (4000)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 4000
+[11/02/11 14:53:29 Hora estándar de Sudamérica O. dell (4000)] INFO : Agent Log at D:/PROJECT_JOBSTER/ALL_SN/jobster/log/newrelic_agent.log
+[11/03/11 12:06:18 SA Western Standard Time D403-15 (2816)] INFO : Dispatcher: webrick
+[11/03/11 12:06:18 SA Western Standard Time D403-15 (2816)] INFO : Application: My Application
+[11/03/11 12:06:18 SA Western Standard Time D403-15 (2816)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/03/11 12:06:18 SA Western Standard Time D403-15 (2816)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 2816
+[11/03/11 12:06:18 SA Western Standard Time D403-15 (2816)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[11/04/11 23:15:35 Hora estándar de Sudamérica O. dell (3244)] INFO : Dispatcher: webrick
+[11/04/11 23:15:35 Hora estándar de Sudamérica O. dell (3244)] INFO : Application: My Application
+[11/04/11 23:15:35 Hora estándar de Sudamérica O. dell (3244)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/04/11 23:15:35 Hora estándar de Sudamérica O. dell (3244)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 3244
+[11/04/11 23:15:35 Hora estándar de Sudamérica O. dell (3244)] INFO : Agent Log at D:/PROJECT_JOBSTER/ALL_SN_CSVAL_PROFILE/jobster/log/newrelic_agent.log
+[11/05/11 13:16:30 Hora estándar de Sudamérica O. dell (3444)] INFO : Dispatcher: webrick
+[11/05/11 13:16:30 Hora estándar de Sudamérica O. dell (3444)] INFO : Application: My Application
+[11/05/11 13:16:30 Hora estándar de Sudamérica O. dell (3444)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/05/11 13:16:30 Hora estándar de Sudamérica O. dell (3444)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 3444
+[11/05/11 13:16:30 Hora estándar de Sudamérica O. dell (3444)] INFO : Agent Log at D:/PROJECT_JOBSTER/ALL_SN_CSVAL_PROFILE/jobster/log/newrelic_agent.log
+[11/06/11 15:27:29 Hora estándar de Sudamérica O. dell (3976)] INFO : Dispatcher: webrick
+[11/06/11 15:27:29 Hora estándar de Sudamérica O. dell (3976)] INFO : Application: My Application
+[11/06/11 15:27:29 Hora estándar de Sudamérica O. dell (3976)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/06/11 15:27:29 Hora estándar de Sudamérica O. dell (3976)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 3976
+[11/06/11 15:27:29 Hora estándar de Sudamérica O. dell (3976)] INFO : Agent Log at D:/PROJECT_JOBSTER/ALL_SN_CSVAL_PROFILE/jobster/log/newrelic_agent.log
+[11/07/11 08:53:32 SA Western Standard Time D403-15 (3436)] INFO : Dispatcher: webrick
+[11/07/11 08:53:32 SA Western Standard Time D403-15 (3436)] INFO : Application: My Application
+[11/07/11 08:53:32 SA Western Standard Time D403-15 (3436)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/07/11 08:53:32 SA Western Standard Time D403-15 (3436)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 3436
+[11/07/11 08:53:32 SA Western Standard Time D403-15 (3436)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[11/08/11 08:04:32 SA Western Standard Time D403-15 (1956)] INFO : Dispatcher: webrick
+[11/08/11 08:04:32 SA Western Standard Time D403-15 (1956)] INFO : Application: My Application
+[11/08/11 08:04:32 SA Western Standard Time D403-15 (1956)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/08/11 08:04:32 SA Western Standard Time D403-15 (1956)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 1956
+[11/08/11 08:04:32 SA Western Standard Time D403-15 (1956)] INFO : Agent Log at D:/rails_workspace/PROJECT_JOBSTER/jobster/log/newrelic_agent.log
+[11/08/11 10:50:27 -0400 Dans-iMac.local (32884)] INFO : Dispatcher: webrick
+[11/08/11 10:50:27 -0400 Dans-iMac.local (32884)] INFO : Application: My Application
+[11/08/11 10:50:27 -0400 Dans-iMac.local (32884)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/08/11 10:50:27 -0400 Dans-iMac.local (32884)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 32884
+[11/08/11 10:50:27 -0400 Dans-iMac.local (32884)] INFO : Agent Log at /Users/dan/Downloads/jobster/log/newrelic_agent.log
