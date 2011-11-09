@@ -1050,3 +1050,8 @@ D:/rails_workspace/PROJECT_JOBSTER/jobster/app/views/requests/pending.haml:23: s
 [11/08/11 10:50:27 -0400 Dans-iMac.local (32884)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
 [11/08/11 10:50:27 -0400 Dans-iMac.local (32884)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 32884
 [11/08/11 10:50:27 -0400 Dans-iMac.local (32884)] INFO : Agent Log at /Users/dan/Downloads/jobster/log/newrelic_agent.log
+[11/09/11 11:16:19 -0400 Dans-iMac.local (34589)] INFO : Dispatcher: webrick
+[11/09/11 11:16:19 -0400 Dans-iMac.local (34589)] INFO : Application: My Application
+[11/09/11 11:16:19 -0400 Dans-iMac.local (34589)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[11/09/11 11:16:19 -0400 Dans-iMac.local (34589)] INFO : New Relic Ruby Agent 3.2.0.1 Initialized: pid = 34589
+[11/09/11 11:16:19 -0400 Dans-iMac.local (34589)] INFO : Agent Log at /Users/dan/Downloads/jobster2/log/newrelic_agent.log
